@@ -20,7 +20,7 @@
             "value": "1904094450"
         },
         "LOG_GROUP_ID": {
-            "description": "Add @WerabliAnlar and type /id to get ur chat id",
+            "description": "Add @Zaid2_robot and type /id to get ur chat id",
             "required": true,
             "value": "Fill There Ur Private/Channel Id Make sure start with -100"
         },
@@ -37,12 +37,12 @@
         "ZAID_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "WerabliAnlar"
+            "value": "Superior_Support"
         },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "ASOmusicbot"
+            "value": "Superior_bots"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
